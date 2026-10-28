@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ye111ow.github.io/sitemap.xml
